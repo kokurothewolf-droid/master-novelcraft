@@ -29,15 +29,6 @@ When methods disagree, the author's intent, the existing manuscript, and the des
 
 ## Getting started
 
-To upload this package to GitHub, follow [UPLOAD_TO_GITHUB.md](UPLOAD_TO_GITHUB.md).
-
-1. Download the skill folder from this repository.
-2. For an assistant that supports folder-based skills, copy the complete folder into its skills directory. Keep `SKILL.md`, `references/`, and the other bundled resources together. Follow your assistant's instructions to enable it.
-3. Provide your writing brief. For existing fiction, include the relevant manuscript and current character or world notes.
-4. Specify whether you want ideas, planning, drafting, critique, revision, continuity work, or a lesson.
-
-For an assistant without a skill installer, provide `SKILL.md` as instructions and make the referenced files available as project documents. Reference loading depends on the host application's capabilities.
-
 **Requirements:** An AI assistant that can follow Markdown instructions and access the supplied files. The core writing workflow needs no separate runtime, Story CLI, or dedicated paid API. Your chosen AI service may have its own costs and limits.
 
 ## Example requests
